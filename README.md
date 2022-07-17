@@ -1,3 +1,3 @@
 # BUILD 🆙 #1 Hackathon
 
-<img width="885" alt="Screenshot 2022-07-15 at 14 57 44" src="https://user-images.githubusercontent.com/232662/179227555-3cfabe20-a943-4d5e-a815-53a9b02ead5f.png">
+![Build-up-lukso-onboard](https://user-images.githubusercontent.com/93616957/179421412-600d2480-adad-41b3-b9cc-72ce8f49e4a5.png)
