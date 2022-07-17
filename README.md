@@ -1,3 +1,3 @@
 # BUILD 🆙 #1 Hackathon
 
-![Build-up-lukso-onboard](https://user-images.githubusercontent.com/93616957/179421412-600d2480-adad-41b3-b9cc-72ce8f49e4a5.png)
+![image](https://user-images.githubusercontent.com/93616957/179421560-970b53b6-8914-4e6c-916b-0699beae09d5.png)
