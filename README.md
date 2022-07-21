@@ -18,7 +18,7 @@ Join us in shaping the New Creative Economy and changing blockchain for everyone
 
 ### Key Dates
 - July 6th: Open registration
-- July 20th: Kickoff webinar and hackathon begins (5pm CEST)
+- [July 20th: Kickoff webinar and hackathon begins (5pm CEST)](https://youtu.be/veHqhpgGDr4)
 - August 31st: Submissions close (5pm CEST)
 - September 15th: Winners announced
 
@@ -93,7 +93,7 @@ LUKSO allows creativity to flow between physical and digital realms – develop 
 ### Workshops & Office Hours
 Join the workshops via [Airmeet](https://www.airmeet.com/e/11896320-02eb-11ed-9478-bda1db34cefd)
 
-- Thursday, July 21 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 1)
+- [Thursday, July 21 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 1)](https://youtu.be/EWrCQiSMckU)
 - Friday, July 22 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 2)
 - Monday, July 25 @ 5pm CEST – LUKSO Tools Workshop
 - Tuesday, July 26 @ 5pm CEST – Building Basic DApps on LUKSO Workshop
