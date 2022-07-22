@@ -94,7 +94,7 @@ LUKSO allows creativity to flow between physical and digital realms – develop 
 Join the workshops via [Airmeet](https://www.airmeet.com/e/11896320-02eb-11ed-9478-bda1db34cefd)
 
 - Thursday, July 21 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 1) - [Video](https://youtu.be/EWrCQiSMckU) / [Presentation](https://docs.google.com/presentation/d/1occep9ZfvspCKLURKAEjH3PIqYG7BBc9celOi0-OAeo/edit?usp=sharing)
-- Friday, July 22 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 2)
+- Friday, July 22 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 2) - [Video](https://youtu.be/UUoVl3brYUY) / [Presentation](https://docs.google.com/presentation/d/1KjNHuJxIE3zfTkbHIJCQvJY_5lTx2FaNrB7mZQImXAQ/edit?usp=sharing)
 - Monday, July 25 @ 5pm CEST – LUKSO Tools Workshop
 - Tuesday, July 26 @ 5pm CEST – Building Basic DApps on LUKSO Workshop
 - Wednesday, August 3 @ 5pm CEST – Office Hours
