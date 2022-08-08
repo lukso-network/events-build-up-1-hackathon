@@ -95,9 +95,9 @@ Join the workshops via [Airmeet](https://www.airmeet.com/e/11896320-02eb-11ed-94
 
 - Thursday, July 21 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 1) - [Video](https://youtu.be/EWrCQiSMckU) / [Presentation](https://docs.google.com/presentation/d/1occep9ZfvspCKLURKAEjH3PIqYG7BBc9celOi0-OAeo/edit?usp=sharing)
 - Friday, July 22 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 2) - [Video](https://youtu.be/UUoVl3brYUY) / [Presentation](https://docs.google.com/presentation/d/1KjNHuJxIE3zfTkbHIJCQvJY_5lTx2FaNrB7mZQImXAQ/edit?usp=sharing)
-- Monday, July 25 @ 5pm CEST – LUKSO Tools Workshop
-- Tuesday, July 26 @ 5pm CEST – Building Basic DApps on LUKSO Workshop
-- Wednesday, August 3 @ 5pm CEST – Office Hours
+- Monday, July 25 @ 5pm CEST – LUKSO Tools Workshop - [Video](https://www.youtube.com/watch?v=hKBFXGcvT1c&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=4) / [Presentation](https://docs.google.com/presentation/d/1Eeeb0IJ_2oqFVGeYQjflTU5zolRj2uzmC0wDQtinGRs/edit?usp=sharing)
+- Tuesday, July 26 @ 5pm CEST – Building Basic DApps on LUKSO Workshop - [Video](https://www.youtube.com/watch?v=HWE4heRuk1o&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=5)
+- Wednesday, August 3 @ 5pm CEST – Office Hours - [Video](https://www.youtube.com/watch?v=Rk5mH80pUz0&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=6)
 - Wednesday, August 10 @ 5pm CEST – Office Hours
 - Wednesday, August 17 @ 5pm CEST – Office Hours
 - Wednesday, August 24 @ 5pm CEST – Office Hours
