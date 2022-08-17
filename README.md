@@ -22,6 +22,18 @@ Join us in shaping the New Creative Economy and changing blockchain for everyone
 - August 31st: Submissions close (5pm CEST)
 - September 15th: Winners announced
 
+### Workshops & Office Hours
+Join the workshops via [Airmeet](https://www.airmeet.com/e/11896320-02eb-11ed-9478-bda1db34cefd)
+
+- Thursday, July 21 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 1) - [Video](https://youtu.be/EWrCQiSMckU) / [Presentation](https://docs.google.com/presentation/d/1occep9ZfvspCKLURKAEjH3PIqYG7BBc9celOi0-OAeo/edit?usp=sharing)
+- Friday, July 22 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 2) - [Video](https://youtu.be/UUoVl3brYUY) / [Presentation](https://docs.google.com/presentation/d/1KjNHuJxIE3zfTkbHIJCQvJY_5lTx2FaNrB7mZQImXAQ/edit?usp=sharing)
+- Monday, July 25 @ 5pm CEST – LUKSO Tools Workshop - [Video](https://www.youtube.com/watch?v=hKBFXGcvT1c&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=4) / [Presentation](https://docs.google.com/presentation/d/1Eeeb0IJ_2oqFVGeYQjflTU5zolRj2uzmC0wDQtinGRs/edit?usp=sharing)
+- Tuesday, July 26 @ 5pm CEST – Building Basic DApps on LUKSO Workshop - [Video](https://www.youtube.com/watch?v=HWE4heRuk1o&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=5)
+- Wednesday, August 3 @ 5pm CEST – Office Hours - [Video](https://www.youtube.com/watch?v=Rk5mH80pUz0&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=6)
+- Wednesday, August 10 @ 5pm CEST – Office Hours - [Video](https://youtu.be/le7jKOQG6FQ)
+- Wednesday, August 17 @ 5pm CEST – Office Hours - [Video](https://youtu.be/WZBqpt_acOk)
+- Wednesday, August 24 @ 5pm CEST – Office Hours
+
 ### Categories & Prizes
 Detailed submission requirements and prize breakdowns for all bounties will be released on the Gitcoin platform a couple days before the hackathon kick-off date on July 20th!
 
@@ -89,18 +101,6 @@ LUKSO allows creativity to flow between physical and digital realms – develop 
 **After the Hackathon**
 - We begin the judging process and also let the LUKSO community vote for their favorite submissions (Community Choice Award)
 - Winners of the categories and prizes will be announced on September 15
-
-### Workshops & Office Hours
-Join the workshops via [Airmeet](https://www.airmeet.com/e/11896320-02eb-11ed-9478-bda1db34cefd)
-
-- Thursday, July 21 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 1) - [Video](https://youtu.be/EWrCQiSMckU) / [Presentation](https://docs.google.com/presentation/d/1occep9ZfvspCKLURKAEjH3PIqYG7BBc9celOi0-OAeo/edit?usp=sharing)
-- Friday, July 22 @ 5pm CEST – LUKSO Standard Proposals Workshop (Part 2) - [Video](https://youtu.be/UUoVl3brYUY) / [Presentation](https://docs.google.com/presentation/d/1KjNHuJxIE3zfTkbHIJCQvJY_5lTx2FaNrB7mZQImXAQ/edit?usp=sharing)
-- Monday, July 25 @ 5pm CEST – LUKSO Tools Workshop - [Video](https://www.youtube.com/watch?v=hKBFXGcvT1c&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=4) / [Presentation](https://docs.google.com/presentation/d/1Eeeb0IJ_2oqFVGeYQjflTU5zolRj2uzmC0wDQtinGRs/edit?usp=sharing)
-- Tuesday, July 26 @ 5pm CEST – Building Basic DApps on LUKSO Workshop - [Video](https://www.youtube.com/watch?v=HWE4heRuk1o&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=5)
-- Wednesday, August 3 @ 5pm CEST – Office Hours - [Video](https://www.youtube.com/watch?v=Rk5mH80pUz0&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=6)
-- Wednesday, August 10 @ 5pm CEST – Office Hours - [Video](https://youtu.be/le7jKOQG6FQ)
-- Wednesday, August 17 @ 5pm CEST – Office Hours - [Video](https://youtu.be/WZBqpt_acOk)
-- Wednesday, August 24 @ 5pm CEST – Office Hours
 
 ### Judges
 - Fabian Vogelsteller, Co-Founder and Chief Architect of LUKSO
