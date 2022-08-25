@@ -32,7 +32,7 @@ Join the workshops via [Airmeet](https://www.airmeet.com/e/11896320-02eb-11ed-94
 - Wednesday, August 3 @ 5pm CEST – Office Hours - [Video](https://www.youtube.com/watch?v=Rk5mH80pUz0&list=PLvTrX8LNPbPlv2ZAS7SHruevCusSd5rO3&index=6)
 - Wednesday, August 10 @ 5pm CEST – Office Hours - [Video](https://youtu.be/le7jKOQG6FQ)
 - Wednesday, August 17 @ 5pm CEST – Office Hours - [Video](https://youtu.be/WZBqpt_acOk)
-- Wednesday, August 24 @ 5pm CEST – Office Hours
+- Wednesday, August 24 @ 5pm CEST – Office Hours - [Video](https://youtu.be/Y0I3aNTNHIM)
 
 ### Categories & Prizes
 Detailed submission requirements and prize breakdowns for all bounties will be released on the Gitcoin platform a couple days before the hackathon kick-off date on July 20th!
